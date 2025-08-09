@@ -132,7 +132,7 @@ Code quality: ruff .
 Help: python simulator.py -h
 # Simulation Parameters
 decoy_template_dir: "decoy_templates"
-decoy_work_dir: "tests"         # Change to "decoys" if preferred
+decoy_work_dir: "decoys"         # Change to "decoys" if preferred
 key_dir: "keys"
 log_dir: "logs"
 
