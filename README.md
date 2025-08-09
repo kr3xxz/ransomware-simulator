@@ -76,7 +76,7 @@ Installation
 Clone the Repository
 
 bash
-git clone https://github.com/yourusername/ransomware-simulator.git
+git clone https://github.com/kr3xxz/ransomware-simulator.git
 cd ransomware-simulator
 Set Up Virtual Environment
 
